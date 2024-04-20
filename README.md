@@ -16,7 +16,7 @@
    
 Желаем успехов в выполнении домашнего задания!
    
-`[Задания](https://github.com/SeSloup/netology_zabbix/blob/master/hw-02.md)`
+[Задания](https://github.com/SeSloup/netology_zabbix/blob/master/hw-02.md)
    
 ### Дополнительные материалы, которые могут быть полезны для выполнения задания
 
@@ -33,7 +33,7 @@
 
 ![скриншот авторизации в админке 2.](https://github.com/SeSloup/netology_zabbix/blob/master/screens/02.png)
 
-3. `[текст](https://github.com/SeSloup/netology_zabbix/blob/master/install%20Zabbix)` использованных команд в GitHub.`  
+3. [текст](https://github.com/SeSloup/netology_zabbix/blob/master/install%20Zabbix) использованных команд в GitHub.`  
 
 
 ---
