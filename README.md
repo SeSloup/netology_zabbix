@@ -16,7 +16,7 @@
    
 Желаем успехов в выполнении домашнего задания!
    
-`[Задания](ссылка на скриншот 1)`
+`[Задания](https://github.com/SeSloup/netology_zabbix/blob/master/hw-02.md)`
    
 ### Дополнительные материалы, которые могут быть полезны для выполнения задания
 
@@ -29,9 +29,11 @@
 `Приведите ответ в свободной форме........`
 
 1. `скриншот авторизации в админке.`  
-![скриншот авторизации в админке.](ссылка на скриншот)`
+![скриншот авторизации в админке 1.](https://github.com/SeSloup/netology_zabbix/blob/master/screens/01.png)
 
-2. `[текст](ссылка на скриншот 1)` использованных команд в GitHub.`  
+![скриншот авторизации в админке 2.](https://github.com/SeSloup/netology_zabbix/blob/master/screens/02.png)
+
+3. `[текст](https://github.com/SeSloup/netology_zabbix/blob/master/install%20Zabbix)` использованных команд в GitHub.`  
 
 
 ---
@@ -45,11 +47,11 @@
 4. `sudo systemctl restart zabbix_agentd.service`  
 5. `Agent vm: sudo ufw allow *.*.*.0/24`  
 6. `http://localhost/zabbix/: /Monitoring/Hosts/Create host`  
-![host](ссылка на скриншот 2)`
+![host](https://github.com/SeSloup/netology_zabbix/blob/master/screens/03.png)
 
-![hosts](ссылка на скриншот 2)`
+![hosts](https://github.com/SeSloup/netology_zabbix/blob/master/screens/04.png)`
 
-![host info](ссылка на скриншот 2)`
+![host info](https://github.com/SeSloup/netology_zabbix/blob/master/screens/05.png)
 ---
 
 Спасибо за проверку !
